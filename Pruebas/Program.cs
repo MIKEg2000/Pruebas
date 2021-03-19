@@ -6,7 +6,8 @@ namespace Pruebas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int num1 = 0;
+            Console.WriteLine("Prueba Mamalona");
         }
     }
 }
